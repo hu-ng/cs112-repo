@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550933099167.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "718494822",
+    "id" : "30A8A158",
+    "lastKnownWriteTime" : 1550933050,
+    "last_content_update" : 1550933050,
+    "path" : "C:/Users/Hung Nguyen/Desktop/CS112/Assignment 2/The code.R",
+    "project_path" : "The code.R",
+    "properties" : {
+        "cursorPosition" : "13,30",
+        "scrollLine" : "0",
+        "source_window_id" : "",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
